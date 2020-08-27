@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -eu
+
+export PS4='> '
+# set -x
+
+echo "bids-basher it is"
