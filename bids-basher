@@ -6,3 +6,13 @@ export PS4='> '
 # set -x
 
 echo "bids-basher it is"
+
+# TODOs:
+# TODOs Wild(er) Ideas:
+#
+# - --interactive  -- exposes functions within interactive bash session
+#                     making it possible to
+#   - might want some custom bashrc with useful prompt features and settings
+#     (noglob etc).  Possibly even taking on repronim shell idea to make
+#     "bash history" record into a script (optionally) stored within
+#     BIDS dataset operated on (thus storing so desired provenance information)
